@@ -1,0 +1,11 @@
+*script to run and return values for healthcheck
+
+*store those data in an array/collection or Dictionary
+
+*loop through elements and write into an excel with randomDate as fileName
+
+*save the file & share the file to an email (if possible to be sent on daily basis)
+
+*Schedule a Job to be executed daily at 10am
+
+link: https://www.geeksforgeeks.org/python-create-and-write-on-excel-file-using-xlsxwriter-module/
